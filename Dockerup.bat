@@ -1,0 +1,1 @@
+docker-compose -f docker-compose.yml up --timeout=20000 >> output.txt
