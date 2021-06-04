@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="57052" started-at="2021-06-03T20:13:13 IST" finished-at="2021-06-03T20:14:11 IST">
+  <suite name="All Test Suite" duration-ms="57755" started-at="2021-06-03T20:46:40 IST" finished-at="2021-06-03T20:47:37 IST">
     <groups>
     </groups>
-    <test name="Docker Test" duration-ms="57052" started-at="2021-06-03T20:13:13 IST" finished-at="2021-06-03T20:14:11 IST">
+    <test name="Docker Test" duration-ms="57755" started-at="2021-06-03T20:46:40 IST" finished-at="2021-06-03T20:47:37 IST">
       <class name="org.example.ChromeTest2">
-        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:org.example.ChromeTest2@3a883ce7]" name="shouldAnswerWithTrue" duration-ms="11058" started-at="2021-06-03T20:13:37 IST" finished-at="2021-06-03T20:13:48 IST">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:org.example.ChromeTest2@3a883ce7]" name="shouldAnswerWithTrue" duration-ms="10867" started-at="2021-06-03T20:47:04 IST" finished-at="2021-06-03T20:47:15 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
       </class> <!-- org.example.ChromeTest2 -->
       <class name="org.example.ChromeTest3">
-        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:org.example.ChromeTest3@4973813a]" name="shouldAnswerWithTrue" duration-ms="6042" started-at="2021-06-03T20:13:48 IST" finished-at="2021-06-03T20:13:54 IST">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:org.example.ChromeTest3@4973813a]" name="shouldAnswerWithTrue" duration-ms="6010" started-at="2021-06-03T20:47:15 IST" finished-at="2021-06-03T20:47:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
       </class> <!-- org.example.ChromeTest3 -->
       <class name="org.example.ChromeTest1">
-        <test-method status="PASS" signature="start()[pri:0, instance:org.example.ChromeTest1@6e6c3152]" name="start" is-config="true" duration-ms="23276" started-at="2021-06-03T20:13:14 IST" finished-at="2021-06-03T20:13:37 IST">
+        <test-method status="PASS" signature="start()[pri:0, instance:org.example.ChromeTest1@6e6c3152]" name="start" is-config="true" duration-ms="24103" started-at="2021-06-03T20:46:40 IST" finished-at="2021-06-03T20:47:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:org.example.ChromeTest1@6e6c3152]" name="shouldAnswerWithTrue" duration-ms="12974" started-at="2021-06-03T20:13:37 IST" finished-at="2021-06-03T20:13:50 IST">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:org.example.ChromeTest1@6e6c3152]" name="shouldAnswerWithTrue" duration-ms="12867" started-at="2021-06-03T20:47:04 IST" finished-at="2021-06-03T20:47:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
-        <test-method status="PASS" signature="stop()[pri:0, instance:org.example.ChromeTest1@6e6c3152]" name="stop" is-config="true" duration-ms="16635" started-at="2021-06-03T20:13:54 IST" finished-at="2021-06-03T20:14:11 IST">
+        <test-method status="PASS" signature="stop()[pri:0, instance:org.example.ChromeTest1@6e6c3152]" name="stop" is-config="true" duration-ms="16746" started-at="2021-06-03T20:47:21 IST" finished-at="2021-06-03T20:47:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stop -->
