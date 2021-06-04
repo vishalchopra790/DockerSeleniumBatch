@@ -3,23 +3,23 @@ pipeline
 agent any
 stages{
 stage('Build')
-step{
+steps{
 bat "mvn clean"
 }
 
 stage('deploy')
-step{
+steps{
 echo "deploying the code"
 }
 
 
 stage('test')
-step{
+steps{
 bat "mvn test"
 }
 
 stage('release')
-step{
+steps{
 bat "mvn clean"
 }
 
